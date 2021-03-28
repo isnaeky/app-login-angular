@@ -11,7 +11,7 @@ export class AuthService {
   userToken: String;
 
   private url = "https://identitytoolkit.googleapis.com/v1/accounts:";
-  private apikey = "AIzaSyCfd-q3rsFdmxnXkFiK5pqx03MVOKnvtk4";
+  private apikey = "You_api_key";
   //crear nuevo usuario
   //https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=[API_KEY]
 
